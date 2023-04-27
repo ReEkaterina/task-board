@@ -1,0 +1,9 @@
+.dialog-container {
+  width: 300px;
+  max-height: 200px;
+  background-color: blanchedalmond;
+}
+
+.dialog-actions-container {
+  padding: 20px 0 10px;
+}
